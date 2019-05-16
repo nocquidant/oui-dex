@@ -51,8 +51,7 @@
 }
 
 .theme-btn--primary {
-  border-radius: 20px;
-  background-color: #b51742;
+  background-color: #03a9f4;
   border: none;
   color: #fff;
   min-width: 200px;
@@ -60,7 +59,7 @@
 }
 
 .theme-btn--primary:hover {
-  background-color: #7f102e;
+  background-color: #0372a4;
   color: #fff;
 }
 
